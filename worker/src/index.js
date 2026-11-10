@@ -6,7 +6,7 @@ const JSON_HEADERS = {
   'Access-Control-Allow-Origin': '*',
   'X-Privacy-Policy': 'Zero tracking, zero data collection',
 };
-const FULL_TOOL = 'https://formatho.com/slug-generator';
+const FULL_TOOL = 'https://formatho.com/tools/slugify-string';
 
 export default {
   async fetch(request) {

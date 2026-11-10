@@ -3,7 +3,7 @@
 [![Stars](https://img.shields.io/github/stars/formatho/slug-generator?style=social)](https://github.com/formatho/slug-generator)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Privacy First](https://img.shields.io/badge/Privacy-First%20%F0%9F%94%92-success)](https://formatho.com)
-[![Try Online](https://img.shields.io/badge/Try%20Online-Online%20%F0%9F%8C%90-blue)](https://formatho.com/slug-generator)
+[![Try Online](https://img.shields.io/badge/Try%20Online-Online%20%F0%9F%8C%90-blue)](https://formatho.com/tools/slugify-string)
 
 A fast, secure, and privacy-first slug generator that creates URL-friendly slugs entirely in your browser. No text is ever sent to a server, ensuring complete privacy and security for your content.
 
@@ -97,7 +97,7 @@ Convert international characters to ASCII equivalents:
 
 ### Web App
 
-Visit [formatho.com/slug-generator](https://formatho.com/slug-generator) and:
+Visit [formatho.com/tools/slugify-string](https://formatho.com/tools/slugify-string) and:
 
 1. **Input**: Enter or paste your text
 2. **Select Format**: Choose slug format (hyphen, underscore, camelCase, etc.)
@@ -227,7 +227,7 @@ At Formatho, we believe in privacy-first development:
 
 ### For Web App
 
-No installation required! Visit [formatho.com/slug-generator](https://formatho.com/slug-generator).
+No installation required! Visit [formatho.com/tools/slugify-string](https://formatho.com/tools/slugify-string).
 
 ### For NPM Package
 
@@ -376,9 +376,9 @@ This project is licensed under the MIT License - see [LICENSE.md](LICENSE.md) fo
 ## 🔗 Related Tools
 
 - [URL Encoder/Decoder](https://github.com/formatho/url-encoder-decoder) - Encode and decode URLs
-- [HTML Entity Encoder/Decoder](https://github.com/formatho/html-entity-encoder-decoder) - Encode and decode HTML entities
-- [Text Tools](https://formatho.com/text-tools) - More text processing tools
-- [SEO Tools](https://formatho.com/seo-tools) - More SEO tools
+- [HTML Entity Encoder/Decoder](https://formatho.com/tools) - Encode and decode HTML entities
+- [Text Tools](https://formatho.com/tools) - More text processing tools
+- [SEO Tools](https://formatho.com/tools) - More SEO tools
 
 ## 💬 Support
 
@@ -396,7 +396,7 @@ This project is licensed under the MIT License - see [LICENSE.md](LICENSE.md) fo
 
 Privacy-first developer tools, 100+ utilities with zero tracking.
 
-[Try Online](https://formatho.com/slug-generator) | [More Tools](https://formatho.com) | [Privacy Policy](https://formatho.com/privacy)
+[Try Online](https://formatho.com/tools/slugify-string) | [More Tools](https://formatho.com) | [Privacy Policy](https://formatho.com/privacy)
 ## ⚡ Free API — Cloudflare Worker
 
 This tool is also available as a free, zero-tracking API deployed on Cloudflare Workers:
@@ -407,5 +407,5 @@ Deploy it yourself: the complete Worker source is in [`worker/`](./worker) — `
 
 ## 🔗 Links
 
-- [Online tool](https://formatho.com/slug-generator)
+- [Online tool](https://formatho.com/tools/slugify-string)
 - [Live API](https://slug-generator-formatho.filesformatho.workers.dev)
